@@ -2,7 +2,7 @@
 
 Este es un paquete de despliegue en NPM
 
-### Javier Lucer
+### Javier Lucero
 
 ## Ejemplo
 
