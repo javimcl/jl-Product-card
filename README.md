@@ -7,7 +7,7 @@ Este es un paquete de despliegue en NPM
 ## Ejemplo
 
 ```
-import { ProductButtons, ProductCard, ProductoImage, ProductoTitle } from 'jl-product-card';
+import { ProductButtons, ProductCard, ProductoImage, ProductoTitle } from 'javimcl-product-card';
 
 ```
 
